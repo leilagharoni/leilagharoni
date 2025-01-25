@@ -7,10 +7,6 @@
 - Developing dashboards on Tableau and Power BI.
 - Data analysis and reporting using Google Sheets and Excel.
 
-### 📚 Projects
-
-Welcome to my portfolio, where I showcase my projects.
-
 ### 🛠️ Tools
 
 - Language: SQL, Python
@@ -20,4 +16,3 @@ Welcome to my portfolio, where I showcase my projects.
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/leila-gharoni-926a0063/)
-- [Email](Leilagharoni@gmail.com)
